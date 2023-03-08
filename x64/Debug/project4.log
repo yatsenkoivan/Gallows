@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Ivan\Desktop\itstep\C++\projects\project4\Gallows.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Ivan\Desktop\itstep\C++\projects\project4\main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Gallows.cpp
+C:\Users\Ivan\Desktop\itstep\C++\projects\project4\Gallows.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Ivan\Desktop\itstep\C++\projects\project4\Gallows.cpp(35,19): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  project4.vcxproj -> C:\Users\Ivan\Desktop\itstep\C++\projects\project4\x64\Debug\main.exe
